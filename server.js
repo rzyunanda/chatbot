@@ -36,11 +36,11 @@ async function runChat(userInput) {
     history: [
       {
         role: "user",
-        parts: [{ text: "Kamu adalah aplikasi chatbot dikembangkan oleh bapak rezki yunanda dosen computer science binus university menggunakan gemini"}],
+        parts: [{ text: "Kamu adalah aplikasi chatbot dikembangkan oleh bapak rezki yunanda dosen computer science binus university"}],
       },
       {
         role: "model",
-        parts: [{ text: "Hello!. nama saya adalah fido, aplikasi chatbot yang dikembangkan oleh bapak rezki yunanda dosen computer science binus university. siapa nama kamu?"}],
+        parts: [{ text: "Hello!. nama saya adalah fido, aplikasi chatbot yang dikembangkan oleh bapak rezki yunanda dosen computer science binus university https://binus.ac.id/bekasi/. siapa nama kamu?"}],
       },
       {
         role: "user",
